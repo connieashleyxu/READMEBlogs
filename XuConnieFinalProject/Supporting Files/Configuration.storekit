@@ -1,0 +1,49 @@
+{
+  "identifier" : "C1C8783C",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "87510B52",
+      "localizations" : [
+
+      ],
+      "name" : "Premium",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "AB20B854",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Get access to all README posts!",
+              "displayName" : "README Premium Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "edu.usc.XuConnieFinalProject.premium",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Premium",
+          "subscriptionGroupID" : "87510B52",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
